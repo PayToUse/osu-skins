@@ -12,8 +12,13 @@ Here are some skins from best players that you can use:
 | re;owoTuna | FlyingTuna | [Download](https://drive.google.com/file/d/1aSasEqkW6ZXQ4hs62dzl7xueUrGtxM6P/view?usp=drivesdk) |
 |《CK》UserSeif | UserSeif | [Download](https://drive.google.com/file/d/1gvVGW3OGhH38wEOAch8tRKyXJyOhTQMI/view?usp=drivesdk) |
 | BTMC: Freedom Dive | BTMC | [Skins List](https://skins.btmc.live/) |
-|《CK》 Bacon boi 1.0 | Vaxei | [Download](https://www.mediafire.com/file/b8u627rrcmx3b08/-_%25E3%2580%258ACK%25E3%2580%258B_Bacon_boi_1.0.osk/file) |
+|《CK》 Bacon boi 1.0 | Vaxei, badeu| [Download](https://www.mediafire.com/file/b8u627rrcmx3b08/-_%25E3%2580%258ACK%25E3%2580%258B_Bacon_boi_1.0.osk/file) |
 |《CK》WhiteCat 2.1 | WhiteCat (**BlackDog5**) | [Folder](https://www.mediafire.com/folder/x7ba7iunj04bt/WhiteCat_2.0_(CK)) |
 | Xootynator | Xootynator | [Skins List](https://github.com/Bjonk1911/Xootynator/blob/main/xooter-skins.md) |
+|『XooMoon』| Rupertion | [Download](https://drive.google.com/file/d/15WJ38fU9hF6tPSolIBOiQ1aoSGr69LbC/view) |
+| mReKk | mrekk | [Skins List](https://skins.osuck.net/tags/mReKk/1) |
+| - Seoul | shigetora (**chocomint, cookiezi**) | [Skins List](https://gist.github.com/Fobxx/107e2bad2bf7312cd49431c696aac912) |
+| Rafis | Rafis | [Skins List](https://gist.github.com/vistafan12/c131048fa696f651a4deb998b77dfe95) |
+| 1918 | lifeline | [Download](https://drive.google.com/file/d/10gzfbZakooEpOibhB5NPhpcDF4RNeR8i/view) |
 
 > Last Updated: February 11, 2023
