@@ -20,5 +20,6 @@ Here are some skins from best players that you can use:
 | - Seoul | shigetora (**chocomint, cookiezi**) | [Skins List](https://gist.github.com/Fobxx/107e2bad2bf7312cd49431c696aac912) |
 | Rafis | Rafis | [Skins List](https://gist.github.com/vistafan12/c131048fa696f651a4deb998b77dfe95) |
 | 1918 | lifeline | [Download](https://drive.google.com/file/d/10gzfbZakooEpOibhB5NPhpcDF4RNeR8i/view) |
+| Mathi | Mathi | [Download](https://drive.google.com/file/d/1yGN680Qs3WbdugGOD4Gy2XAg_fei3MQI/view) |
 
 > Last Updated: February 11, 2023
