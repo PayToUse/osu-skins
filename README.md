@@ -23,5 +23,6 @@ Here are some skins from best players and other players that you can use:
 | Mathi | Mathi | [Google Drive](https://drive.google.com/file/d/1yGN680Qs3WbdugGOD4Gy2XAg_fei3MQI/view) |
 | Redd Glass HD | Haskorion | [osu! Forum Post](https://osu.ppy.sh/community/forums/topics/211396?n=1) |
 | Seoul HS | _Shield | [Google Drive](https://drive.google.com/file/d/1lluh-sODyZjd4Ii67ZkDozR98omxOair/view) |
+| KoiFishu | KoiFishu | [Skins List](https://docs.google.com/document/u/0/d/1rCFfcwn9wa5bxxYtA_gE1HO3zLcu9CCnaSM0FZivMHU/mobilebasic) |
 
 > Last Updated: February 11, 2023
