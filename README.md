@@ -26,5 +26,7 @@ Here are some skins from best players and other players that you can use:
 | Seoul HS | _Shield | [Google Drive](https://drive.google.com/file/d/1lluh-sODyZjd4Ii67ZkDozR98omxOair/view) |
 | KoiFishu | KoiFishu | [Skins List](https://docs.google.com/document/u/0/d/1rCFfcwn9wa5bxxYtA_gE1HO3zLcu9CCnaSM0FZivMHU/mobilebasic) |
 | - 《ciru》| ciru | [Skins List](https://github.com/ciruosu/skins/blob/main/README.md) |
+| Milkteaism Lunar v2.0 Deluxe | Milkteaism | [Mediafire](https://www.mediafire.com/file/o7qcormjx3v7mtu/Milkteaism_Lunar_v2.0_Deluxe.osk/file) |
+| Rafis HDDT - blue cursor | shimon | [Google Drive](https://drive.google.com/file/d/1O1A1DJNjQOzAOzBVo8PGnBPkUiAdcmif/view) |
 
-> Last Updated: February 11, 2023
+> Last Updated: February 26, 2023
