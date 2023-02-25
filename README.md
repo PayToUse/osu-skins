@@ -15,8 +15,8 @@ Here are some skins from best players and other players that you can use:
 |《CK》 Bacon boi 1.0 | Vaxei, badeu| [Mediafire](https://www.mediafire.com/file/b8u627rrcmx3b08/-_%25E3%2580%258ACK%25E3%2580%258B_Bacon_boi_1.0.osk/file) |
 |《CK》WhiteCat 2.0 | WhiteCat (**BlackDog5**) | [Folder](https://www.mediafire.com/folder/x7ba7iunj04bt/WhiteCat_2.0_(CK)) |
 | # WhiteCat (1.0) | WhiteCat (**BlackDog5**) | [Folder](https://www.mediafire.com/folder/3vnwgwe8vcsrv/WhiteCat) |
-|『BlooMoon Re;Done』| Xootynator | [Skins List](https://github.com/Bjonk1911/Xootynator/blob/main/xooter-skins.md) |
-|『XooMoon』| Rupertion | [Google Drive](https://drive.google.com/file/d/15WJ38fU9hF6tPSolIBOiQ1aoSGr69LbC/view) |
+| 『BlooMoon Re;Done』, 『BlooXoo』 | Xootynator | [Skins List](https://github.com/Bjonk1911/Xootynator/blob/main/xooter-skins.md) |
+| 『XooMoon』| Rupertion | [Google Drive](https://drive.google.com/file/d/15WJ38fU9hF6tPSolIBOiQ1aoSGr69LbC/view) |
 | mReKk | mrekk | [Skins List](https://skins.osuck.net/tags/mReKk/1) |
 | - Seoul | shigetora (**chocomint, cookiezi**) | [Skins List](https://gist.github.com/Fobxx/107e2bad2bf7312cd49431c696aac912) |
 | Rafis | Rafis, lifeline, Mathi, Rimuru| [Skins List](https://gist.github.com/vistafan12/c131048fa696f651a4deb998b77dfe95) |
