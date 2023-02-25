@@ -19,11 +19,12 @@ Here are some skins from best players and other players that you can use:
 |『XooMoon』| Rupertion | [Google Drive](https://drive.google.com/file/d/15WJ38fU9hF6tPSolIBOiQ1aoSGr69LbC/view) |
 | mReKk | mrekk | [Skins List](https://skins.osuck.net/tags/mReKk/1) |
 | - Seoul | shigetora (**chocomint, cookiezi**) | [Skins List](https://gist.github.com/Fobxx/107e2bad2bf7312cd49431c696aac912) |
-| Rafis | Rafis, lifeline, Mathi | [Skins List](https://gist.github.com/vistafan12/c131048fa696f651a4deb998b77dfe95) |
+| Rafis | Rafis, lifeline, Mathi, Rimuru| [Skins List](https://gist.github.com/vistafan12/c131048fa696f651a4deb998b77dfe95) |
 | 1918 | lifeline | [Google Drive](https://drive.google.com/file/d/10gzfbZakooEpOibhB5NPhpcDF4RNeR8i/view) |
 | Mathi | Mathi | [Google Drive](https://drive.google.com/file/d/1yGN680Qs3WbdugGOD4Gy2XAg_fei3MQI/view) |
 | Redd Glass HD | Haskorion | [osu! Forum Post](https://osu.ppy.sh/community/forums/topics/211396?n=1) |
 | Seoul HS | _Shield | [Google Drive](https://drive.google.com/file/d/1lluh-sODyZjd4Ii67ZkDozR98omxOair/view) |
 | KoiFishu | KoiFishu | [Skins List](https://docs.google.com/document/u/0/d/1rCFfcwn9wa5bxxYtA_gE1HO3zLcu9CCnaSM0FZivMHU/mobilebasic) |
+| - 《ciru》| ciru | [Skins List](https://github.com/ciruosu/skins/blob/main/README.md) |
 
 > Last Updated: February 11, 2023
