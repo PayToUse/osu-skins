@@ -32,5 +32,6 @@ Here are some skins from best players and other players that you can use:
 | Rafis HDDT - blue cursor | shimon | [Google Drive](https://drive.google.com/file/d/1O1A1DJNjQOzAOzBVo8PGnBPkUiAdcmif/view) |
 | お兄ちゃんはおしまい！ - gnahus | gnahus | [Google Drive](https://drive.google.com/file/d/1ll-EHNxBBTpV6UjqHqriWKP-rqF3muvp/view) |
 | test skin | aetrna | [Google Drive](https://drive.google.com/file/d/1jR-k239Y9ZM5JeAkynjtVPaqJTRQIEH3/view) |
+| BubbleSkin | Bubbleman | [Google Drive](https://drive.google.com/file/d/1xD3DAxGIDpVDum8_pGS1i4nLaH36vNcS/view) |
 
-> Last Updated: March 1, 2023
+> Last Updated: March 2, 2023
