@@ -34,5 +34,6 @@ Here are some skins from best players and other players that you can use:
 | test skin | aetrna | [Google Drive](https://drive.google.com/file/d/1jR-k239Y9ZM5JeAkynjtVPaqJTRQIEH3/view) |
 | BubbleSkin | Bubbleman | [Google Drive](https://drive.google.com/file/d/1xD3DAxGIDpVDum8_pGS1i4nLaH36vNcS/view) |
 | Incandescent Nebulae (ekoro edit) | Ekoro | [Link](https://kaia.s-ul.eu/XYdtIOf3.osk) |
+| Rafis HDDT (ninerik edit) | ninerik | [Dropbox](https://www.dropbox.com/s/x6uoux9vmr2pn0i/-%20Rafis%20but%20Clack-.osk?dl=0) |
 
 > Last Updated: July 19, 2023
