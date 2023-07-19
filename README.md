@@ -19,7 +19,7 @@ Here are some skins from best players and other players that you can use:
 | # WhiteCat (1.0) | WhiteCat (**BlackDog5**) | [Folder](https://www.mediafire.com/folder/3vnwgwe8vcsrv/WhiteCat) |
 | 『BlooMoon Re;Done』, 『BlooXoo』 | Xootynator | [Skins List](https://github.com/Bjonk1911/Xootynator/blob/main/xooter-skins.md) |
 | 『XooMoon』| Rupertion | [Google Drive](https://drive.google.com/file/d/15WJ38fU9hF6tPSolIBOiQ1aoSGr69LbC/view) |
-| mReKk | mrekk | [Skins List](https://skins.osuck.net/tags/mReKk/1) |
+| mReKk / Mrekk | mrekk | [Skins List](https://skins.osuck.net/tags/mReKk/1) or [GitHub Repo](https://github.com/DevenRam/mrekk-osu-Skins) |
 | - Seoul | shigetora (**chocomint, cookiezi**) | [Skins List](https://gist.github.com/Fobxx/107e2bad2bf7312cd49431c696aac912) |
 | Rafis | Rafis, lifeline, Mathi, Rimuru| [Skins List](https://gist.github.com/vistafan12/c131048fa696f651a4deb998b77dfe95) |
 | 1918 | lifeline | [Google Drive](https://drive.google.com/file/d/10gzfbZakooEpOibhB5NPhpcDF4RNeR8i/view) |
@@ -33,5 +33,6 @@ Here are some skins from best players and other players that you can use:
 | お兄ちゃんはおしまい！ - gnahus | gnahus | [Google Drive](https://drive.google.com/file/d/1ll-EHNxBBTpV6UjqHqriWKP-rqF3muvp/view) |
 | test skin | aetrna | [Google Drive](https://drive.google.com/file/d/1jR-k239Y9ZM5JeAkynjtVPaqJTRQIEH3/view) |
 | BubbleSkin | Bubbleman | [Google Drive](https://drive.google.com/file/d/1xD3DAxGIDpVDum8_pGS1i4nLaH36vNcS/view) |
+| Incandescent Nebulae (ekoro edit) | Ekoro | [Link](https://kaia.s-ul.eu/XYdtIOf3.osk) |
 
-> Last Updated: March 2, 2023
+> Last Updated: July 19, 2023
